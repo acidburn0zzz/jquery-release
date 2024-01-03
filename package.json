@@ -2,7 +2,7 @@
   "dependencies": {
     "changelogplease": "1.1.0",
     "colors": "0.6.2",
-    "semver": "2.2.1",
+    "semver": "5.7.2",
     "shelljs": "0.2.6",
     "which": "1.0.5"
   },
